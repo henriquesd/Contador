@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Titulo">Contador</string>
+    <string name="lbl_subtrair">Subtrair</string>
+    <string name="lbl_zerar">Zerar</string>
+    <string name="lbl_sair">Sair</string>
+
+</resources>

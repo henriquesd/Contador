@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.henrique.contador.ActTelaPrincipal">
+
+    <item
+        android:id="@+id/menu_subtrair"
+        android:orderInCategory="100"
+        android:title="@string/lbl_subtrair"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_zerar"
+        android:orderInCategory="100"
+        android:title="@string/lbl_zerar"
+        app:showAsAction="never" />
+
+</menu>
